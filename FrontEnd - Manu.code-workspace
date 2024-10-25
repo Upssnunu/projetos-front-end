@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "escolha-seu-aventureiro-main",
+			"path": "../escolha-seu-aventureiro-main"
+		},
+		{
+			"name": "FrontEnd - Manu",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FrontEnd - Manu"
+	}
+}
